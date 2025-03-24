@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+    
+    
     // Variáveis para a primeira carta
     
     char estado1[50];
